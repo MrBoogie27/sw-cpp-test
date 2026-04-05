@@ -1,6 +1,8 @@
 #pragma once
 
 #include "details/PrintFieldVisitor.hpp"
+
+#include <cstdint>
 #include <iostream>
 #include <typeindex>
 #include <unordered_map>
